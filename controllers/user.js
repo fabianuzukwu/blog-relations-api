@@ -50,7 +50,7 @@ const getOneUser = async ( req, res ) => {
         const { id } = req.params;
         const user = await User.findByPk( id, {
             include: [ {
-                attritubes: [ 'title', 'body', 'niche', 'createdAt' ],
+                attributes: [ 'title', 'body', 'niche', 'createdAt' ],
                 model: Post,
                 as: 'Posts'
             } ]
