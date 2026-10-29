@@ -41,7 +41,7 @@ A REST API for a simple blog where users write posts, demonstrating a one-to-man
 npm run dev
 ```
 
-The server runs on **http://localhost:9090**.
+The server runs on  Port **9090**.
 
 ## API Endpoints
 
