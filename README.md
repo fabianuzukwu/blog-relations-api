@@ -1,6 +1,6 @@
 # Blog Relations API
 
-A REST API for a simple blog where users write posts, demonstrating a one-to-many relationship (one user has many posts). Built with Node.js, Express, Sequelize and MySQL, and tested with Postman.
+A REST API for a simple blog where users write posts, demonstrating a one-to-many relationship (one user has many posts). Built with Node.js, Express, Sequelize and MySQL, and tested with Thunder client.
 
 ## Prerequisites
 
